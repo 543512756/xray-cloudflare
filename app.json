@@ -3,8 +3,5 @@
   "description": "Deploy OneManager to heroku",
   "website": "https://github.com/chuyua/xray-cloudflare",
   "repository": "https://github.com/chuyua/xray-cloudflare",
-  "stack": "container",
-  "features": [
-    "runtime-dyno-metadata"
-  ]
+  "success_url": "/"
 }
