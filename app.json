@@ -3,5 +3,4 @@
   "description": "Deploy OneManager to heroku",
   "website": "https://github.com/chuyua/xray-cloudflare",
   "repository": "https://github.com/chuyua/xray-cloudflare",
-  "success_url": "/"
 }
